@@ -1,0 +1,1 @@
+import{_ as t,q as s,s as a,o as n,d as o}from"./index.798bcfdd.js";const r={setup(){const e=s({count:0});return{...a(e)}}};function c(e,p,_,d,l,u){return n(),o("div",null,"Calendar")}const i=t(r,[["render",c]]);export{i as default};
